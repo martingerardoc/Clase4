@@ -4,6 +4,23 @@ p{
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
 }
-body{
+/*body{
     background-color: grey;
+}*/
+.titulo-principal{
+    text-align: center;
+    color: rgb(146, 130, 238);
+    background-color: burlywood;
+}
+table{
+    margin:0 auto;
+    background-color: orange;
+    border: "1";
+    border-color: turquoise;
+}
+.border{
+    color: black;
+}
+td{
+    font-style:italic ;
 }
